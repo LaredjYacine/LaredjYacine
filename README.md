@@ -1,10 +1,6 @@
 # Hi, I'm Taha 👋
 
-**Python Developer | Quant Developer in Training | Machine Learning Enthusiast**
-
-I'm a Computer Science graduate currently pursuing a Master's degree while studying quantitative development, machine learning, statistics, and financial engineering.
-
-My goal is to become a quantitative developer by building projects that combine strong software engineering with mathematics, data analysis, and algorithmic problem solving.
+**Python Developer | Quant Developer in Training | Machine Learning Enthusiast | CS Graduate**
 
 ## What I'm Working On
 
@@ -12,15 +8,6 @@ My goal is to become a quantitative developer by building projects that combine 
 * 🐍 Building Python projects from scratch to strengthen problem-solving skills
 * 📈 Developing quantitative research and backtesting projects
 * 🎥 Sharing my progress and explaining what i found was difficult on my YT channel 
-
-## Current Focus
-
-* Python
-* Data Structures & Algorithms
-* Numerical Computing
-* Quantitative Development
-* Software Engineering
-* Financial Data Analysis
 
 ## Featured Projects
 
