@@ -14,18 +14,12 @@
 ### 📊 ICT
 
 Backtesting trading strategies, financial data analysis, and quantitative research using Python.
-
 →  [Repository](https://github.com/LaredjYacine/ICT)
-
----
 
 ### 🚌 Oran Public Transport System
 
 A Python-based transportation routing system designed to help users navigate Oran's bus network efficiently using custom GeoJSON datasets.
-
 → [Repository](https://github.com/LaredjYacine/TravelStops)
-
----
 
 ## Contact
 
