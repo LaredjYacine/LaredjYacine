@@ -1,30 +1,23 @@
 # Hi, I'm Taha 👋
 
-**Python Developer | Quant Developer in Training | Machine Learning Enthusiast | CS Graduate**
+**Python Developer | Quant Developer in Training | Machine Learning Enthusiast**
 
 ## What I'm Working On
+- 📚 Studying quantitative finance, statistics, probability & linear algebra
+- 🐍 Building Python projects from scratch
+- 📈 Developing quantitative research & backtesting tools
+- 🎥 Sharing what I learn on YouTube
 
-* 📚 Studying quantitative finance, probability, linear algebra, and statistics
-* 🐍 Building Python projects from scratch to strengthen problem-solving skills
-* 📈 Developing quantitative research and backtesting projects
-* 🎥 Sharing my progress and explaining what i found was difficult on my YT channel 
+## Projects
 
-## Featured Projects
+- **📊 ICT** – Quantitative research, backtesting & financial data analysis.<br>
+  → [Repository](https://github.com/LaredjYacine/ICT)
 
-### 📊 ICT
+- **🚌 TravelStops** – Public transport routing system for Oran using GeoJSON datasets.<br>
+  → [Repository](https://github.com/LaredjYacine/TravelStops)
 
-Backtesting trading strategies, financial data analysis, and quantitative research using Python.
-→  [Repository](https://github.com/LaredjYacine/ICT)
+## 📧 Contact
 
-### 🚌 Oran Public Transport System
-
-A Python-based transportation routing system designed to help users navigate Oran's bus network efficiently using custom GeoJSON datasets.
-→ [Repository](https://github.com/LaredjYacine/TravelStops)
-
-## Contact
-
-📧 Email: [laredjyacine60@gmail.com](mailto:laredjyacine60@gmail.com)
-
-💼 Twitter: [@Yacinex](https://x.com/Yacynex)
-
-🐙 Youtube: [Youtube](https://www.youtube.com/@TahaYacinex)
+- **Email:** [laredjyacine60@gmail.com](mailto:laredjyacine60@gmail.com)
+- **Twitter/X:** [@Yacynex](https://x.com/Yacynex)
+- **YouTube:** [@TahaYacinex](https://www.youtube.com/@TahaYacinex)
