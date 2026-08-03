@@ -1,12 +1,13 @@
 # Hi, I'm Taha 👋
 
-**Python Developer | Quant Developer in Training | Machine Learning Enthusiast**
+**Python Developer | Quant Developer in Training | CS Graduate**
 
 ## What I'm Working On
 - 📚 Studying quantitative finance, statistics, probability & linear algebra
 - 🐍 Building Python projects from scratch
 - 📈 Developing quantitative research & backtesting tools
 - 🎥 Sharing what I learn on YouTube
+- 💻 Learning C++
 
 ## Projects
 
