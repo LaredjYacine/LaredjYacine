@@ -6,7 +6,7 @@
 - 🐍 Building Python projects from scratch
 - 📈 Developing quantitative research & backtesting tools
 - 🎥 Sharing what I learn on YouTube
-- 💻 Learning C++
+
 
 ## Projects
 
